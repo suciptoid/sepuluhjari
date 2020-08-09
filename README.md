@@ -1,5 +1,5 @@
-# Sepuluh Jari
-Aplikasi web based untuk melatih kecepatan mengetik dengan sepuluh jari.
+# [WIP] Sepuluh Jari [![Netlify Status](https://api.netlify.com/api/v1/badges/86b44327-3a44-4389-b2e6-3a9c3953fada/deploy-status)](https://app.netlify.com/sites/sepuluhjari/deploys)
+Aplikasi web based untuk melatih kecepatan mengetik dengan sepuluh jari. [Demo](https://sepuluhjari.netlify.app)
 
 ![Screenshot](screenshot.png)
 
