@@ -1,4 +1,9 @@
-# sepuluhjari
+# Sepuluh Jari
+Aplikasi web based untuk melatih kecepatan mengetik dengan sepuluh jari.
+
+![Screenshot](screenshot.png)
+
+Built with VueJS, TailwindCSS
 
 ## Project setup
 ```
