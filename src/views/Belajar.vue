@@ -140,7 +140,7 @@ export default {
     },
     isCharHighlihgted (word, char) {
       if (this.inputs.length === word) {
-        if (this.current.length >= char) {
+        if (this.current.length > char) {
           return true
         }
       }
